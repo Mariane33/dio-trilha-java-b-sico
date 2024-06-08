@@ -25,3 +25,5 @@ replay_pid*
 tipos-variaveis/.vscode/settings.json
 java-anatomia-classes/.vscode/settings.json
 java-terminal/.vscode/settings.json
+java-terminal 2/.vscode/settings.json
+java-terminal 2/.vscode/launch.json
